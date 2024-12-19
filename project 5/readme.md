@@ -15,16 +15,19 @@
       <a href="#thanks">Thanks</a>
     </li>
   </ul>
+</details>
        
 ## About The Project
-Just kickstarted a Java web app hosted on AWS 🚀
+The project was all about how to use GitHub and integrate it with my AWS architecture!
 
-Here’s what I did:
+Here’s what I did for this project:
+
 ✅ Launched an EC2 instance.
+
 ✅ Used VSCode to set up a remote SSH connection to my EC2 instance.
+
 ✅ Used Apache Maven and Java to generate a basic web app structure.
 
-🌟 The highlight for me was integrating VSCode and EC2 to set up an IDE for a virtual machine!
 
 📸 Check out my documentation below to learn how you can do this too.
 
@@ -40,7 +43,7 @@ Here’s what I did:
  
 
  ##   Thanks
- 🙏 Huge thanks to @NextWork for their guides and support throughout this project. 
+ 🙏 Thanks to @NextWork for their guides and support throughout this project. 
 
  <p align="right">(<a href="#top">back to top</a>)</p>
  
