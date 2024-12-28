@@ -33,7 +33,7 @@ I just learnt how to use GitHub and connect it with my AWS architecture!
 
  - To access the documentation, please visit my [LinkedIn page](https://www.linkedin.com/posts/ijeoma-igboagu_connecting-my-ec2-to-my-git-repo-activity-7275434828940877826--0qY?utm_source=share&utm_medium=member_desktop).
 
- - [GitHub Code](https://github.com/ijayhub/nextwork-devops-webapp-ijay)
+ - [GitHub Code](https://github.com/ijayhub/nextwork-devops-webapp)
   <p align="right">(<a href="#top">back to top</a>)</p>
 
 
